@@ -2,10 +2,10 @@ import './App.css';
 
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
-import StudentProfile from './components/StudentProfile';
-import StateDemo from './components/StateDemo';
-import BindingDemo from './components/BindingDemo';
-import StyleDemo from './components/StyleDemo';
+//import StudentProfile from './components/StudentProfile';
+//import StateDemo from './components/StateDemo';
+//import BindingDemo from './components/BindingDemo';
+//import StyleDemo from './components/StyleDemo';
 import StudentRegistration from './components/StudentRegistration';
 import Login from './components/Login';
 
